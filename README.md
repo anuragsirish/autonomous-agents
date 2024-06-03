@@ -1,6 +1,6 @@
 # Building Autonomous Agents using Autogen
 
-This repository is inspired by Andrew NG's Deeplearning course "AI Agentic Design Patterns with AutoGen" which I highly recommend.
+This repository is inspired by Andrew NG's Deeplearning course "AI Agentic Design Patterns with AutoGen" which I highly recommend. Its been repurposed for Azure Open AI.
 
 ## Autogen Explained - Framework to build Autonomous Agents
 
