@@ -1,8 +1,5 @@
 # Building Autonomous Agents using Autogen
 
-
-## Building Autonomous Agents using Autogen
-
 ## Autogen Explained - Framework to build Autonomous Agents
 
 Autogen is an open-source multi-agent conversation framework designed to create and manage autonomous agents. It enables these agents to perform tasks, make decisions, and learn independently, reflecting on their actions and improving with minimal human intervention.
