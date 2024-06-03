@@ -1,5 +1,7 @@
 # Building Autonomous Agents using Autogen
 
+This repository is inspired by Andrew NG's Deeplearning course "AI Agentic Design Patterns with AutoGen" which I highly recommend.
+
 ## Autogen Explained - Framework to build Autonomous Agents
 
 Autogen is an open-source multi-agent conversation framework designed to create and manage autonomous agents. It enables these agents to perform tasks, make decisions, and learn independently, reflecting on their actions and improving with minimal human intervention.
